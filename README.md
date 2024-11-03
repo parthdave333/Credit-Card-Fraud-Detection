@@ -18,7 +18,15 @@ This project focuses on building a machine learning model to detect fraudulent c
    ```bash
       git clone https://github.com/parthdave333/credit-card-fraud-detection.git
 
-2. Open the Jupyter Notebook:
+2. Download the dataset:
+
+Visit https://www.kaggle.com/mlg-ulb/creditcardfraud.
+Log in or create a Kaggle account if needed.
+Click on Download to get the creditcard.csv file.
+
+3. Place the creditcard.csv file in the project directory.
+
+4. Open the Jupyter Notebook:
    ```bash
       jupyter notebook Credit_Card_Fraud_Detection.ipynb
 
